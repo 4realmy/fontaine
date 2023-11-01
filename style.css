@@ -59,11 +59,12 @@ ul {
 }
 /*--background-video--*/
 
+/*--first-part--*/
 .first{
-    border: 0cm solid;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: 3px solid;
     padding: 100px 0px;
     margin: 100px 0px;
 }
@@ -76,5 +77,29 @@ ul {
     text-align: center;
 }
 .welcome{
-    font-size: 80px;
+    font-size: 90px;
 }
+.intro{
+    font-size: 30px;
+}
+/*--first-part--*/
+
+/*--second-part--*/
+
+.second{
+    border: 3px solid;
+}
+.second-title{
+    text-align: center;
+    font-size: 100px;
+}
+.characters{
+    display: flex;
+    justify-content: center;
+    gap: 5cm;
+}
+.character{
+    width: 22cm;
+    height: auto;
+}
+/*--second-part--*/
