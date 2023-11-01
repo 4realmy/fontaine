@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: ;
+    background: white;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+}
+
+.logo{    /*hydro element image*/
+    width: 50px;
+    height: auto;
+}
+.title{
+    font-size: 30px;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+ul {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+    
+  }
