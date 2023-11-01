@@ -60,7 +60,7 @@ ul {
 /*--background-video--*/
 
 .first{
-    border: 1cm solid;
+    border: 0cm solid;
     display: flex;
     justify-content: space-around;
     align-items: center;
