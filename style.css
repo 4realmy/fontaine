@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-between;
     padding: 0px 25px;
-    background-color: rgba(255, 255, 255, 0.481);
+    background-color: rgba(6, 74, 95, 0.561);
     margin: -11px;
     
 }
@@ -59,3 +59,22 @@ ul {
 }
 /*--background-video--*/
 
+.first{
+    border: 1cm solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 0px;
+    margin: 100px 0px;
+}
+.melos{
+    width: 30cm;
+    height: auto;
+}
+.left-side{
+    width: 1000px;
+    text-align: center;
+}
+.welcome{
+    font-size: 80px;
+}
