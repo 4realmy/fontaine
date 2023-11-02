@@ -66,19 +66,19 @@ ul {
     justify-content: space-around;
     align-items: center;
     border: 0px solid;
-    padding: 100px 0px;
-    margin: 100px 10px;
+    padding: 100px 70px;
+    margin: 100px 50px;
 }
 .melos{
-    border-radius: 3cm;
-    width: 40cm;
+    border-radius: 1cm;
+    width: 45cm;
     height: auto;
 }
 .left-side{
-    border-radius: 3cm;
-    padding: 110px;
-    background-color: rgba(240, 248, 255, 0.9);
-    width: 1000px;
+    border-radius: 1cm;
+    padding: 60px;
+    background-color: rgba(240, 248, 255, 0.685);
+    width: 30cm;
     text-align: center;
 }
 .welcome{
@@ -86,6 +86,16 @@ ul {
 }
 .intro{
     font-size: 30px;
+    font-weight: bold;
+}
+.left-side button{
+    border-color: rgba(255, 255, 255, 0.214);
+    background-color: rgb(67, 217, 234);
+    margin-top: 4px;
+    border-radius: 2cm;
+    font-size: 30px;
+    width: 5cm;
+    height: 3cm;
 }
 /*--first-part--*/
 
