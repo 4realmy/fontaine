@@ -59,20 +59,25 @@ ul {
 }
 /*--background-video--*/
 
+
 /*--first-part--*/
 .first{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 3px solid;
+    border: 0px solid;
     padding: 100px 0px;
-    margin: 100px 0px;
+    margin: 100px 10px;
 }
 .melos{
-    width: 30cm;
+    border-radius: 3cm;
+    width: 40cm;
     height: auto;
 }
 .left-side{
+    border-radius: 3cm;
+    padding: 110px;
+    background-color: rgba(240, 248, 255, 0.9);
     width: 1000px;
     text-align: center;
 }
@@ -84,10 +89,13 @@ ul {
 }
 /*--first-part--*/
 
-/*--second-part--*/
 
+/*--second-part--*/
 .second{
-    border: 3px solid;
+    padding: 50px;
+    margin: -10px;
+    background-color: rgba(240, 248, 255, 0.9);
+    border: 0px solid;
 }
 .second-title{
     text-align: center;
@@ -99,6 +107,7 @@ ul {
     gap: 5cm;
 }
 .character{
+    border-radius: 2cm;
     width: 22cm;
     height: auto;
 }
