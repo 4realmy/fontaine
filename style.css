@@ -68,34 +68,35 @@ ul {
     border: 0px solid;
     padding: 100px 70px;
     margin: 100px 50px;
+    gap: 100px;
 }
 .melos{
     border-radius: 1cm;
-    width: 45cm;
+    width: 35cm;
     height: auto;
 }
 .left-side{
     border-radius: 1cm;
-    padding: 100px;
+    padding: 50px;
     background-color: rgba(240, 248, 255, 0.9);
-    width: 35cm;
+    width: 80cm;
+    height: auto;
     text-align: center;
 }
 .welcome{
-    font-size: 90px;
+    font-size: 60px;
 }
 .intro{
     margin: 2cm;
-    font-size: 30px;
+    font-size: 20px;
 }
 .left-side button{
     border-color: rgb(255, 255, 255);
     background-color: rgb(67, 217, 234);
-    margin-top: 4px;
     border-radius: 1cm;
-    font-size: 30px;
+    font-size: 20px;
     width: 5cm;
-    height: 3cm;
+    height: 2cm;
 }
 /*--first-part--*/
 
